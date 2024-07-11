@@ -1,0 +1,16 @@
+__pycache__
+domainbed/facebook.py
+
+domainbed/data/*
+domainbed_data
+train_output/*
+results
+*.pth
+*.pt
+*.pkl
+*.png
+venv
+data
+.idea
+variational-autoencoder
+Roundtrip
