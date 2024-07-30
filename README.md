@@ -1,6 +1,6 @@
 # Weighted Risk Invariance: Domain Generalization under Invariant Feature Shift
 
-Code repository for the paper [Weighted Risk Invariance: Domain Generalization under Invariant Feature Shift](https://openreview.net/forum?id=WyPKLWPYsr).
+Code repository for the paper [Weighted Risk Invariance: Domain Generalization under Invariant Feature Shift](https://arxiv.org/pdf/2407.18428).
 
 <p align="center">
   <img src="https://github.com/ginawong/weighted_risk_invariance/blob/main/images/WRI_2d_figure.png?raw=true" width="800"/>
@@ -15,6 +15,20 @@ This repository contains the source code for recreating the experiments in our p
 * DomainBed results can be recreated from `DomainBed_WRI`
 
 Each subdirectory contains its own README, with instructions on how to set up and run the code.
+
+## Citation
+
+```
+@article{wong2024weighted,
+    title={Weighted Risk Invariance: Domain Generalization under Invariant Feature Shift},
+    author={Gina Wong and Joshua Gleason and Rama Chellappa and Yoav Wald and Anqi Liu},
+    journal={Transactions on Machine Learning Research},
+    issn={2835-8856},
+    year={2024},
+    url={https://openreview.net/forum?id=WyPKLWPYsr},
+    note={}
+}
+```
 
 ## Support
 For questions or comments, please file a Github issue or tag [@ginawong](https://github.com/ginawong)
